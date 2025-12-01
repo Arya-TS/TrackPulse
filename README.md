@@ -29,20 +29,6 @@ The app is built with Streamlit for a simple, interactive user interface.
 
 ---
 
-## 📂 Project Structure
-TrackPulse/
-│
-├── ui.py # Streamlit UI
-├── hit_model.pkl # Classification model
-├── rec_model.pkl # kNN recommendation model
-├── hit_scaler.pkl # Scaler for hit prediction
-├── rec_scaler.pkl # Scaler for recommendation
-├── dataset.csv # Audio features dataset
-├── requirements.txt
-└── README.md
-
----
-
 ## 🛠 Tech Stack
 - Python
 - Streamlit
